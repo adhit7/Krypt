@@ -110,7 +110,7 @@ const Welcome = () => {
               handleChange={handleChange}
             />
             <Input
-              placeholder='Amount (ETH)'
+              placeholder='Amount (Sepolia ETH)'
               name='amount'
               type='number'
               handleChange={handleChange}
